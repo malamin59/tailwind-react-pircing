@@ -1,0 +1,93 @@
+[
+    {
+      "studentId": 1,
+      "name": "Arafat Hossain",
+      "marks": {
+        "physics": 92,
+        "chemistry": 88,
+        "math": 95
+      }
+    },
+    {
+      "studentId": 2,
+      "name": "Nishi Rahman",
+      "marks": {
+        "physics": 81,
+        "chemistry": 85,
+        "math": 89
+      }
+    },
+    {
+      "studentId": 3,
+      "name": "Tamim Iqbal",
+      "marks": {
+        "physics": 75,
+        "chemistry": 70,
+        "math": 82
+      }
+    },
+    {
+      "studentId": 4,
+      "name": "Farzana Akter",
+      "marks": {
+        "physics": 88,
+        "chemistry": 91,
+        "math": 86
+      }
+    },
+    {
+      "studentId": 5,
+      "name": "Rafiul Islam",
+      "marks": {
+        "physics": 95,
+        "chemistry": 97,
+        "math": 94
+      }
+    },
+    {
+      "studentId": 6,
+      "name": "Sneha Khatun",
+      "marks": {
+        "physics": 69,
+        "chemistry": 74,
+        "math": 78
+      }
+    },
+    {
+      "studentId": 7,
+      "name": "Junaid Ahmed",
+      "marks": {
+        "physics": 82,
+        "chemistry": 79,
+        "math": 85
+      }
+    },
+    {
+      "studentId": 8,
+      "name": "Moumita Sarker",
+      "marks": {
+        "physics": 91,
+        "chemistry": 90,
+        "math": 92
+      }
+    },
+    {
+      "studentId": 9,
+      "name": "Riaz Mahmud",
+      "marks": {
+        "physics": 64,
+        "chemistry": 67,
+        "math": 70
+      }
+    },
+    {
+      "studentId": 10,
+      "name": "Tanha Akter",
+      "marks": {
+        "physics": 89,
+        "chemistry": 86,
+        "math": 88
+      }
+    }
+  ]
+  
